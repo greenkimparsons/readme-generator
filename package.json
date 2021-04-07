@@ -1,0 +1,23 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "What the app is for:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greenkimparsons/readme-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greenkimparsons/readme-generator/issues"
+  },
+  "homepage": "https://github.com/greenkimparsons/readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
